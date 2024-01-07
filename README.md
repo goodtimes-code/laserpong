@@ -22,7 +22,7 @@ Play the classic game *Pong* with 2 players on a laser projector.
   - Player 2: Arrow up and Arrow down
 4. Introduce ball: Hit *Space* key
 
-#Support & Community
+# Support & Community
 Join our [Community](https://community.goodtimes.technology/c/laserpong/) to discuss your ideas and issues.
 
 # More laser games and stuff
